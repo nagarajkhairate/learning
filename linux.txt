@@ -1,0 +1,5 @@
+Linux Commands
+
+Sl.no Command         Syntax                         Usage
+
+1)     pwd             pwd                           print working diretory     
